@@ -2,4 +2,5 @@
 Suponiendo que tendrás cuenta de AWS que permita credenciales, terraform y AWS CLI instalado, haremos lo siguiente:
 <br/>
 1. Creación de un usuario IAM
+<img src="img/tf/img1.png" alt="Texto alternativo">
 
